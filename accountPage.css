@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(132, 197, 72, 0.973);
+    color: rgb(6, 76, 78);
+    font-family: Sylfaen;
+    font-size: 60px;
+}
+p{
+    font-family: 'Sylfaen';
+    color: rgb(231, 99, 22);
+    position: static;
+    font-size: 40px;
+    margin: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(0, 204, 255);
+}
+
+#css001{
+    position: sticky;
+    font-family: Sylfaen;
+    font-size: 40px;
+    vertical-align: top;
+    font-weight: bold;
+}
+
+#t001{
+    position: sticky;
+    font-family: Sylfaen;
+    color: rgb(30, 165, 48);
+    font-size: 40px;
+    vertical-align: top;
+    font-style: italic;
+}
+
+#t002{ /*submit Button*/
+    position: sticky;
+    font-family: Sylfaen;
+    color: rgb(76, 8, 90);
+    font-size: 40px;
+    vertical-align: top;
+    font-style: italic;
+    background-color: #8a7e3f;
+}
+
+td {
+    text-align: center;
+  }
+
+input[type = radio] {
+    border: 0px;
+    width: 10%;
+    height: 1em;
+}
+
+input[type = checkbox] {
+    width: 40px;
+    height: 40px;
+    vertical-align: center;
+}
+
+#backButton{
+    position: sticky;
+    font-family: Sylfaen;
+    color: rgb(69, 219, 0);
+    font-size: 40px;
+    vertical-align: top;
+    font-style: italic;
+    background-color: #856b75;
+}
+
+#game_button1{
+    position: sticky;
+    font-family: Sylfaen;
+    color: rgb(11, 28, 77);
+    font-size: 28px;
+    vertical-align: center;
+    background-color: #847a9b;
+    width: 100px;
+    height: 60px;
+}
+
+#game_button1:hover {
+    background-color: #186e11d5;
+    color: white;
+}
+
+#game_table2{
+    position: sticky;
+    font-family: Sylfaen;
+    color: rgb(45, 3, 80);
+    font-size: 20px;
+    vertical-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}

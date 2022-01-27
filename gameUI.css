@@ -1,0 +1,128 @@
+body{
+    /*background-color: rgba(134, 161, 59, 0.973);*/
+    /*color: rgb(14, 128, 42);*/
+    /*font-family: Sylfaen;*/
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    /*font-family: 'Sylfaen';*/
+    /*color: rgb(231, 99, 22);*/
+    /*position: fixed;*/
+    font-size: 40px;
+    margin: 10px;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(0, 204, 255);
+}
+
+#game_table{
+    position: sticky;
+    /*font-family: Sylfaen;*/
+    /*color: rgb(0, 141, 19);*/
+    font-size: 40px;
+    vertical-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#game_button1{
+    position: sticky;
+    /*font-family: Sylfaen;*/
+    /*color: rgb(11, 28, 77);*/
+    font-size: 28px;
+    vertical-align: center;
+    background-color: #ceaea2;
+    width: 100px;
+    height: 60px;
+}
+
+#game_button1:hover {
+    background-color: #186e11d5;
+    color: white;
+}
+
+#game_button2{
+    position: sticky;
+    color: rgb(76, 8, 90);
+    font-size: 40px;
+    vertical-align: center;
+    font-style: italic;
+    width: 350px;
+    height: 200px;
+    background-color: #1da53b;
+}
+
+#game_button2:hover {
+    background-color: #a84b9c;
+}
+
+#game_button3{
+    position: sticky;
+    font-family: Sylfaen;
+    color: rgb(76, 8, 90);
+    font-size: 40px;
+    vertical-align: center;
+    font-style: italic;
+    background-color: #b4a993;
+    width: 350px;
+    height: 200px;
+}
+
+#game_button3:hover {
+    background-color: #26137a;
+    color: white;
+}
+
+#game_button4{
+    position: sticky;
+    font-family: Sylfaen;
+    color: rgb(76, 8, 90);
+    font-size: 40px;
+    vertical-align: center;
+    font-style: italic;
+    background-color: #b4a993;
+    width: 350px;
+    height: 200px;
+}
+
+#game_button4:hover {
+    background-color: #1d384b;
+    color: white;
+}
+
+#t001{
+    position: sticky;
+    /*font-family: Sylfaen;*/
+    /*color: rgb(50, 6, 80);*/
+    font-size: 40px;
+    vertical-align: top;
+    font-style: italic;
+}
+
+#game_button11{
+    position: sticky;
+    /*font-family: Sylfaen;*/
+    /*color: rgb(11, 28, 77);*/
+    font-size: 28px;
+    vertical-align: center;
+    background-color: #847a9b;
+    width: 50px;
+    height: 60px;
+}
+
+#game_button11:hover {
+    background-color: #186e11d5;
+    color: white;
+}
+
+#t002{
+    position: sticky;
+    /*font-family: Sylfaen;*/
+    /*color: rgb(50, 6, 80);*/
+    font-size: 40px;
+    vertical-align: top;
+    font-style: italic;
+    width: 90px;
+    height: 16px;
+}
